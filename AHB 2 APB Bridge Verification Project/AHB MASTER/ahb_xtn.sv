@@ -59,3 +59,4 @@ class ahb_xtn extends uvm_sequence_item;
      printer.print_field("Hresp",this.Hresp,2,UVM_DEC);      
   endfunction
  endclass  
+
